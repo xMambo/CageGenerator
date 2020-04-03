@@ -1,3 +1,5 @@
+//first attempt following cj but the search url format is different
+
 const fetch = require('node-fetch');
 
 // this is the url for Nicolas Cage. if i wanted to change the actor i'd have to find a way to cut that into the url.
